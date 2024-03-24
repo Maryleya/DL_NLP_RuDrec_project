@@ -4,4 +4,10 @@
 
 [Отчет](https://docs.google.com/document/d/1JVZfquvMbjfY-yNA_FI6LT8SVYZ_oO6KuZsYM-fObHM/edit?usp=sharing) по проекту.
 
-Все модели и некоторые другие материалы по проекту можно найти по [ссылке](https://drive.google.com/drive/folders/1Zl47jQ-YwJOtGqgIjohQ73Uc_MDPIGqA).
+Все модели и некоторые другие материалы можно найти по [ссылке](https://drive.google.com/drive/folders/1Zl47jQ-YwJOtGqgIjohQ73Uc_MDPIGqA).
+
+Над проектом работали:
+* Ксения Шерман
+* Мария Островская
+* Мария Сухарева
+* Элина Камаева
